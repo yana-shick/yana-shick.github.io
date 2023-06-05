@@ -116,6 +116,7 @@ function checkPlacement(i) {
     }
     return true;
 }
+eightQeens(arr);
 
 //Dom- create erase button in menu after all 92 solution numbers
 let solutionMenu = document.getElementById('solutions');
@@ -133,4 +134,3 @@ function erase() {
     });
 }
 
-eightQeens(arr);
