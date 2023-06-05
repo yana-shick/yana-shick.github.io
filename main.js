@@ -123,7 +123,7 @@ let eraseBtn = document.createElement('div');
 eraseBtn.innerHTML = 'erase';
 eraseBtn.addEventListener('click', erase);
 eraseBtn.setAttribute('id', 'eraseBtn');
-solutionContainer.appendChild(eraseBtn);
+solutionMenu.appendChild(eraseBtn);
 
 //clear board
 function erase() {
