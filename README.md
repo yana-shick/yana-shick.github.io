@@ -1,0 +1,2 @@
+# EightQueens
+Eight queens puzzle
